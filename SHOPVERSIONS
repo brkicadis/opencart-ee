@@ -1,5 +1,14 @@
 [
     {
+        "release": "1.5.1",
+        "shopsystem": "OpenCart",
+        "tested": "3.0.2.0",
+        "compatibility": "3.0.2.0",
+        "changelog": [
+            "Fix vault table update"
+        ]
+    },
+    {
         "release": "1.5.0",
         "shopsystem": "OpenCart",
         "tested": "3.0.2.0",
