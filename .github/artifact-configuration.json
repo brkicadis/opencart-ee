@@ -6,24 +6,28 @@
       ".env",
       ".gitignore",
       ".travis.yml",
+      "_TERMS_OF_USE",
       "CHANGELOG.md",
       "codeception.yml",
-      "composer.json",
       "Dockerfile",
       "phpcs.xml",
       "phpunit.xml",
       "README.md",
-      "SHOPVERSIONS"
+      "SHOPVERSIONS",
+      "composer.json",
+      "upload/composer.json",
+      "upload/composer.lock"
     ],
     "folder-blacklist": [
       ".bin",
       ".git",
+      ".githooks",
       ".github",
-      "build",
+      "test",
       "tests"
     ]
   },
   "composer": {
-    "execution-path": "/github/workspace"
+    "execution-path": "/github/workspace/upload"
   }
 }
