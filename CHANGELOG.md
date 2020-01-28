@@ -1,6 +1,6 @@
 # Changelog
 
-## v2.0.0
+## v4.0.0
 
 * Add P24 #54
 * Add additional translation files
@@ -15,5 +15,5 @@
 
 |  Overview | OpenCart version | PHP 5.6 | PHP 7.0 | PHP 7.1 | PHP 7.2 |    
 |---|---|:---:|:---:|:---:|:---:|  
-| **Tested version(s)** | OpenCart 2.0.0 | &#9989; | &#9989; | &#9989; | &#9989; |  
-| **Compatibility** | OpenCart 1.5.0 - 2.0.0 | &#9989; | &#9989; | &#9989; | &#9989; |    
+| **Tested version(s)** | OpenCart 4.0.0 | &#9989; | &#9989; | &#9989; | &#9989; |  
+| **Compatibility** | OpenCart 1.5.0 - 4.0.0 | &#9989; | &#9989; | &#9989; | &#9989; |    
