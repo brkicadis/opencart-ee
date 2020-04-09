@@ -15,7 +15,7 @@ env:
     - MAJOR_RELEASE=major
 
 jobs:
-  # these stages are allowed to fail
+  ## these stages are allowed to fail
   allow_failures:
   - stage: acceptance-test
     env:
