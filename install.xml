@@ -1,6 +1,6 @@
 <modification>
     <name>Wirecard Payment Processing Gateway</name>
-    <version>4.0.0</version>
+    <version>7.1.1</version>
     <author>Wirecard</author>
     <code>WirecardPG</code>
     <file path="admin/controller/common/column_left.php">
